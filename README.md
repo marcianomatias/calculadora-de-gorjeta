@@ -30,4 +30,20 @@ Siga as etapas abaixo para executar o aplicativo:
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
 1. Faça um fork deste repositório.
-2. Crie um branch para a sua nova funcionalidade (
+Continuação:
+
+2. Crie a funcionalidade desejada, fazendo as alterações necessárias nos arquivos HTML, CSS e JavaScript.
+3. Teste o aplicativo para garantir que a nova funcionalidade esteja funcionando corretamente.
+4. Faça o commit das suas alterações e envie um pull request para este repositório.
+5. Aguarde a revisão e o feedback da equipe responsável pelo projeto.
+6. Após a aprovação, suas alterações serão mescladas ao projeto principal.
+
+## Licença
+
+Este projeto está licenciado sob a [licença MIT](https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+## Contato
+
+Se você tiver alguma dúvida, sugestão ou comentário sobre este projeto, sinta-se à vontade para entrar em contato comigo, Marciano Matias, por meio do meu perfil no GitHub ou do meu endereço de e-mail marcianomatias1@hotmail.com.
+
+Agradeço por utilizar este aplicativo de cálculo de gorjeta e por considerar contribuir para o projeto. Espero que seja útil e que facilite o cálculo de gorjetas em suas experiências gastronômicas!
